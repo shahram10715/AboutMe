@@ -1,6 +1,6 @@
 # SH_Blog
 
-My name is Shahram. I am a structural engineer who loves programming. here is a link to my [LinkedIn](https://www.linkedin.com/in/shahram-shaygani) profile. 
+My name is Shahram. I am a structural engineer who loves programming. Here is a link to my [LinkedIn](https://www.linkedin.com/in/shahram-shaygani) profile. 
 
 
 #### List of my projects
